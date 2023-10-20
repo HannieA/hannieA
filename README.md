@@ -9,7 +9,7 @@
  - 🤔 Solve problems on Codewars & LeetCode
  - 👯 Complete tasks in Academy to improve skills
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HannieA&theme=aura-dark&exclude_days=Sun%2CSat" width="530px" align="center"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HannieA&theme=aura-dark&exclude_days=Sun%2CSat" height="170px" align="center"/>
 
 
 <!--
