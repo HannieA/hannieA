@@ -28,8 +28,8 @@
 
 <br>
 <div style="display: flex; justify-content: center;" align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&langs_count=4&theme=dracula" height="250px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HannieA&theme=aura-dark&exclude_days=Sun%2CSat" height="250px"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&langs_count=4&theme=dracula" height="200px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HannieA&theme=aura-dark&exclude_days=Sun%2CSat" height="200px"/> 
 </div>
 
 ---
