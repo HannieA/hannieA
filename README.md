@@ -1,7 +1,7 @@
-<h3 align="center">Hey 👋 Nice to see you</h2>
-<h4 align="center">I'm a frontend developer from San Francisco, <br> passionate about learning and development, not only in code but also in self 😄 </h3> 
+<h2">Hey 👋 Nice to see you</h2>
+<h3">I'm a frontend developer from San Francisco, <br> passionate about learning and development, not only in code but also in self 😄 </h3> 
 <br>
-<div style="display: flex; justify-content: center;" align="center">
+<div style="display: flex; justify-content: center;">
  <img src="https://github.com/HannieA/hannieA/blob/master/icons/react-original.svg" width="50px">
  <img src="https://github.com/HannieA/hannieA/blob/master/icons/javascript-original.svg" width="50px" >
  <img src="https://github.com/HannieA/hannieA/blob/master/icons/redux-original.svg" width="50px" >
@@ -28,9 +28,33 @@
 
 <br>
 <div style="display: flex; justify-content: center;" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hannieA&hide=stars,issues&show_icons=true&theme=dracula&rank_icon=github" height="150px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&langs_count=4&theme=dracula" height="150px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&langs_count=4&theme=dracula" height="250px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HannieA&theme=aura-dark&exclude_days=Sun%2CSat" height="250px"/> 
 </div>
 
+---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=HannieA&theme=aura-dark&exclude_days=Sun%2CSat" width="600px"></p>
+<h3>My projects</h3>
+<div style="display: flex; justify-content: space-between;">
+<div style="flex: 1;">
+<img src="https://github.com/HannieA/hannieA/blob/master/icons/socoders.png" width="100px">
+<p>SoCoders - social network for IT professionals.
+<br> 
+The project is in the development stage and will soon be ready for release. 
+<br>
+It's built with React and TypeScript, using the MUI CSS framework</p>
+<img src="https://github.com/HannieA/hannieA/blob/master/icons/SoCoders_pr.png">
+</div>
+
+---
+ 
+<div style="flex: 1;">
+<img src="https://github.com/HannieA/hannieA/blob/master/icons/TeleHelp.png" width="100px">
+<p>Telehelp Ukraine - Stanford based initiative that provides remote medical & 
+<br> mental health support to Ukrainians from international MDs
+<br> 
+<img src="https://github.com/HannieA/hannieA/blob/master/icons/TeleHelp_pr.png" >
+</div>
+</div>
+
 
