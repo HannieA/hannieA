@@ -1,5 +1,5 @@
-<h2>Hey 👋 Nice to see you</h2>
-<h3>I'm a frontend developer from San Francisco, <br> passionate about learning and development, not only in code but also in self 😄 </h3> 
+<h2 color="black">Hey 👋 Nice to see you</h2>
+<h3 color="black">I'm a frontend developer from San Francisco, <br> passionate about learning and development, not only in code but also in self 😄 </h3> 
 <br>
 <div style="display: flex; justify-content: center;">
  <img src="https://github.com/HannieA/hannieA/blob/master/icons/react-original.svg" width="50px">
@@ -19,10 +19,9 @@
 
 ---
 
- - 🔭 Currently working on TeleHelp Ukraine (Stanford) & SoCoders (Bay Area) projects
- - 🌱 Contunue learning React, JavaScript, CSS
- - 🤔 Solve problems on Codewars & LeetCode
- - 👯 Complete tasks in Academy to improve skills
+ - 🔭 Currently working on <a href="https://app.telehelpukraine.com/" target="_blank">TeleHelp Ukraine (Stanford)</a> & SoCoders (Bay Area) projects
+ - 🌱 Solve problems on <a href="https://www.codewars.com/users/Hannie_986" target="_blank">Codewars</a> & <a href="https://leetcode.com/user2408RL/" target="_blank">LeetCode</a>
+ - 👯 Complete tasks in Academy to improve skills in React, JavaScript, CSS
 
 ---
 
@@ -35,26 +34,33 @@
 ---
 
 <h3>My projects</h3>
-<div style="display: flex; justify-content: space-between;">
-<div style="flex: 1;">
-<img src="https://github.com/HannieA/hannieA/blob/master/icons/socoders.png" width="100px">
-<p>SoCoders - social network for IT professionals.
-<br> 
-The project is in the development stage and will soon be ready for release. 
-<br>
-It's built with React and TypeScript, using the MUI CSS framework</p>
-<img src="https://github.com/HannieA/hannieA/blob/master/icons/SoCoders_pr.png">
-</div>
 
----
- 
-<div style="flex: 1;">
-<img src="https://github.com/HannieA/hannieA/blob/master/icons/TeleHelp.png" width="100px">
-<p>Telehelp Ukraine - Stanford based initiative that provides remote medical & 
-<br> mental health support to Ukrainians from international MDs
-<br> 
-<img src="https://github.com/HannieA/hannieA/blob/master/icons/TeleHelp_pr.png" >
-</div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/HannieA/hannieA/blob/master/icons/socoders.png" width="100px">
+    </td>
+    <td>
+      <img src="https://github.com/HannieA/hannieA/blob/master/icons/TeleHelp.png" width="150px">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>SoCoders - social network for IT professionals. The project is in the development stage and will soon be ready for release. It's built with React and TypeScript, using the MUI CSS framework.</p>
+    </td>
+    <td>
+      <p>Telehelp Ukraine - Stanford-based initiative that provides remote medical & mental health support to Ukrainians from international MDs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/HannieA/hannieA/blob/master/icons/SoCoders_pr.png">
+    </td>
+    <td>
+      <img src="https://github.com/HannieA/hannieA/blob/master/icons/TeleHelp_pr.png">
+    </td>
+  </tr>
+</table>
+
 
 
