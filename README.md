@@ -19,9 +19,11 @@
 
 ---
 
- - 🔭 Currently working on <a href="https://app.telehelpukraine.com/" target="_blank">TeleHelp Ukraine (Stanford)</a> & SoCoders (Bay Area) projects
- - 🌱 Solve problems on <a href="https://www.codewars.com/users/Hannie_986" target="_blank">Codewars</a> & <a href="https://leetcode.com/user2408RL/" target="_blank">LeetCode</a>
- - 👯 Complete tasks in Academy to improve skills in React, JavaScript, CSS
+<ul>
+ <li>🔭 Currently working on <a href="https://app.telehelpukraine.com/" target="_blank">TeleHelp Ukraine (Stanford)</a> & SoCoders (Bay Area) projects</li> 
+ <li>🌱 Solve problems on <a href="https://www.codewars.com/users/Hannie_986" target="_blank">Codewars</a> & <a href="https://leetcode.com/user2408RL/" target="_blank">LeetCode</a></li> 
+ <li>👯 Complete tasks in Academy to improve skills in React, JavaScript, CSS</li> 
+</ul>
 
 ---
 
@@ -46,10 +48,14 @@
   </tr>
   <tr>
     <td>
-      <p>SoCoders - social network for IT professionals. The project is in the development stage and will soon be ready for release. It's built with React and TypeScript, using the MUI CSS framework.</p>
+      <p><strong>SoCoders</strong>
+       <br>
+       Social network for IT professionals. The project is in the development stage and will soon be ready for release. It's built with React and TypeScript, using the MUI CSS framework.</p>
     </td>
     <td>
-      <p>Telehelp Ukraine - Stanford-based initiative that provides remote medical & mental health support to Ukrainians from international MDs.</p>
+      <p><strong>Telehelp Ukraine</strong>
+       <br>
+       Stanford-based initiative that provides remote medical & mental health support to Ukrainians from international MDs.</p>
     </td>
   </tr>
   <tr>
