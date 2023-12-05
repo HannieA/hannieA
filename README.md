@@ -1,5 +1,5 @@
 <h2 color="black">Hey 👋 Nice to see you</h2>
-<h3 color="black">I'm a frontend developer from San Francisco, <br> passionate about learning and development, not only in code but also in self 😄 </h3> 
+<h3 color="black">I'm a frontend developer from San Francisco, <br> passionate about development, coding and learning </h3> 
 <br>
 <div style="display: flex; justify-content: center;">
  <img src="https://github.com/HannieA/hannieA/blob/master/icons/react-original.svg" width="50px">
