@@ -68,11 +68,13 @@
   </tr>
 </table>
 
+---
+
 <h3>My portfolio</h3>
-<h4><a href="https://hanniea.github.io/layout_creativeBakery/"> Creative Bakery</a></h4>
+<h3><a href="https://hanniea.github.io/layout_creativeBakery/"> Creative Bakery</a></h3>
 <img src="https://github.com/HannieA/hannieA/blob/master/icons/bakery.png" width="800px">
 <br>
-<h4><a href="https://hanniea.github.io/layout_mybike/">MyBike</a></h4>
+<h3><a href="https://hanniea.github.io/layout_mybike/">MyBike</a></h3>
 <img src="https://github.com/HannieA/hannieA/blob/master/icons/my-bike.png" width="800px">
  
 
